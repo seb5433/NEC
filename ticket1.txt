@@ -1,0 +1,17 @@
+           Tasty Pizzas
+CONTROL INTERNO. NO VALIDO
+COMO FACTURA
+
+Pedido N°:24
+Fecha de entrada: 8/4/2020
+Hora de entrada: 0:9:19
+Cliente: nasdjfodasf
+Para: *******LLEVAR*****
+------------------------------
+
+           Pedido:
+1 - PALMITO-44000 Gs
+
+Precio Total: 44000Gs
+Cantidad Total: 1 Pizzas
+           Falta Abonar
